@@ -1,0 +1,38 @@
+<style>
+body {
+background-image:url("http://i.imgur.com/BB7PrP6.jpg");
+}
+#images{
+  opacity:0.5;
+}
+h1{
+  font-family:Courier;
+  color: white;
+}
+
+h2{
+  color: white;
+  padding-left:1%;
+  padding-top:1%;
+}
+
+h3{
+  font-family: Courier;
+  color: white;
+}
+.heading{
+  background-color:white;
+  border-radius:25px;
+  display: inline-block
+}
+p{
+  padding-bottom: 1%;
+  padding-left:1%;
+  font-size:25px;
+}
+#output{
+ margin-top:1%;
+  border-radius:25px;
+  font-family:'Lobster';
+}
+</style>
