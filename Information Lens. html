@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div class = "container">
+<div class ="text-center">
+<h1>Information Lens</h1>
+<h3>A Wikipedia Viewer</h3>
+<div class ="heading">
+<a href ="https://en.wikipedia.org/wiki/Special:Random"target ="blank">
+<img src="https://s-media-cache-ak0.pinimg.com/736x/3a/55/c0/3a55c0f03eeb0200c0336e1a94767fc0.jpg">
+</a>
+</div>
+</div>
+<div class="text-center">
+<input id ="searchTerm">
+<button id ="search" type="button" class="btn btn-primary">Submit</button>
+<ul id="output">
+</ul>
+</div>
+</body>
+</html>
