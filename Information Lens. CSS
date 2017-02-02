@@ -1,38 +1,44 @@
 <style>
 body {
-background-image:url("http://i.imgur.com/BB7PrP6.jpg");
-}
-#images{
-  opacity:0.5;
-}
-h1{
-  font-family:Courier;
-  color: white;
+  background-image: url("http://www.babaimage.com/images/technology-wallpaper-hd-download-hd-wallpapers.jpg");
+  background-repeat: no-repeat;
 }
 
-h2{
-  color: white;
-  padding-left:1%;
-  padding-top:1%;
+#images {
+  opacity: 0.5;
 }
 
-h3{
+h1 {
   font-family: Courier;
   color: white;
 }
-.heading{
-  background-color:white;
-  border-radius:25px;
+
+h2 {
+  color: white;
+  padding-left: 1%;
+  padding-top: 1%;
+}
+
+h3 {
+  font-family: Courier;
+  color: white;
+}
+
+.heading {
+  background-color: white;
+  border-radius: 25px;
   display: inline-block
 }
-p{
+
+p {
   padding-bottom: 1%;
-  padding-left:1%;
-  font-size:25px;
+  padding-left: 1%;
+  font-size: 25px;
+  background-color: black;
 }
-#output{
- margin-top:1%;
-  border-radius:25px;
-  font-family:'Lobster';
-}
-</style>
+
+#output {
+  margin-top: 1%;
+  border-radius: 25px;
+  font-family: Georgia;
+}</style>
